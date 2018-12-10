@@ -1,0 +1,7 @@
+E:\Wantsome\Module4-POO-Curs1\HotelApp\HotelApp\bin\Debug\HotelApp.exe.config
+E:\Wantsome\Module4-POO-Curs1\HotelApp\HotelApp\bin\Debug\HotelApp.exe
+E:\Wantsome\Module4-POO-Curs1\HotelApp\HotelApp\bin\Debug\HotelApp.pdb
+E:\Wantsome\Module4-POO-Curs1\HotelApp\HotelApp\obj\Debug\HotelApp.csprojAssemblyReference.cache
+E:\Wantsome\Module4-POO-Curs1\HotelApp\HotelApp\obj\Debug\HotelApp.csproj.CoreCompileInputs.cache
+E:\Wantsome\Module4-POO-Curs1\HotelApp\HotelApp\obj\Debug\HotelApp.exe
+E:\Wantsome\Module4-POO-Curs1\HotelApp\HotelApp\obj\Debug\HotelApp.pdb

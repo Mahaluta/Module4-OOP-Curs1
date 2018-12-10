@@ -1,0 +1,7 @@
+E:\Wantsome\Module4-POO-Curs1\PizzaApp\PizzaApp\bin\Debug\PizzaApp.exe.config
+E:\Wantsome\Module4-POO-Curs1\PizzaApp\PizzaApp\bin\Debug\PizzaApp.exe
+E:\Wantsome\Module4-POO-Curs1\PizzaApp\PizzaApp\bin\Debug\PizzaApp.pdb
+E:\Wantsome\Module4-POO-Curs1\PizzaApp\PizzaApp\obj\Debug\PizzaApp.csprojAssemblyReference.cache
+E:\Wantsome\Module4-POO-Curs1\PizzaApp\PizzaApp\obj\Debug\PizzaApp.csproj.CoreCompileInputs.cache
+E:\Wantsome\Module4-POO-Curs1\PizzaApp\PizzaApp\obj\Debug\PizzaApp.exe
+E:\Wantsome\Module4-POO-Curs1\PizzaApp\PizzaApp\obj\Debug\PizzaApp.pdb
